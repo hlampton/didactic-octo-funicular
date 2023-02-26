@@ -1,6 +1,6 @@
 # didactic-octo-funicular
 
-# :memo:Description </div>
+# Description </div>
 
     AS AN avid reader
     I WANT to search for new books to read
